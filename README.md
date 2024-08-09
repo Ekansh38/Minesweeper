@@ -55,4 +55,4 @@ Ekansh - [Twitter or X](https://x.com/mister_byte_) - [YouTube Channel](https://
 ## Acknowledgments
 
 - [Marcoquad Docs](https://macroquad.rs)
-- [How to play Minesweeper](https://www.youtube.com/watch?v=dvvrOeITzG8)
+- [How to play Minesweeper](https://minesweepergame.com/strategy/how-to-play-minesweeper.php)
